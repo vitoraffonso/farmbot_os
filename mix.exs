@@ -19,7 +19,7 @@ defmodule Farmbot.Mixfile do
     [
       app: :farmbot,
       description: "The Brains of the Farmbot Project",
-      elixir: "~> 1.6",
+      elixir: "~> 1.7",
       package: package(),
       make_clean: ["clean"],
       make_env: make_env(),
